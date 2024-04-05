@@ -1,3 +1,5 @@
+![Diagrama ERD do banco de dados](imagens/tag.svg)
+
 # pass.in
 
 O pass.in é uma aplicação de **gestão de participantes em eventos presenciais**. 
@@ -39,7 +41,7 @@ Nessa aplicação vamos utilizar banco de dados relacional (SQL). Para ambiente 
 
 ### Diagrama ERD
 
-<img src=".github/erd.svg" width="600" alt="Diagrama ERD do banco de dados" />
+![Diagrama ERD do banco de dados](imagens/erd.svg)
 
 ### Estrutura do banco (SQL)
 
