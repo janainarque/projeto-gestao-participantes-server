@@ -1,9 +1,9 @@
 <div align="center">
-    <h2>
+    <h1>
         <img src="imagens/tag.svg" alt="Tag">
         Gestão de participantes em eventos - API - SERVER  
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="border: none;">
-    </h2>
+<!--         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="border: none;"> -->
+    </h1>
 </div>
 
 
@@ -19,7 +19,7 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 ## 🚀 Technologias
 <p>
   <code><img height="35" alt="javascript logo" src="https://i0.wp.com/pt.mundobabushka.com/wp-content/uploads/sites/5/2016/03/js-logo.png?fit=500%2C500&ssl=1"></code>
-  <code><img height="35" alt="nodejs logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+  <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35"></code>
   <code><img height="30" alt="typescript logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
   <code><img height="28" alt="sqlite logo" src="https://i.postimg.cc/zXSKfSwL/sqlite.jpg"></code>
   <code><img height="32" alt="prisma logo" src="https://i.postimg.cc/769r6RLs/prisma.png"></code>
