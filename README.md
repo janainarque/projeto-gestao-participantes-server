@@ -1,6 +1,6 @@
 <div align="center">
     <h2>
-        <img src="imagens/tag.svg" alt="Diagrama ERD do banco de dados">
+        <img src="imagens/tag.svg" alt="Tag">
         Gestão de participantes em eventos - API - SERVER  
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="border: none;">
     </h2>
@@ -80,9 +80,9 @@ Ou acesse a documentação local em http://localhost:3333/docs
 
 Nessa aplicação vamos utilizar banco de dados relacional (SQL). Para ambiente de desenvolvimento seguiremos com o SQLite pela facilidade do ambiente.
 
-### Diagrama ERD
+<img src="imagens/erd.svg" alt="Diagrama ERD do banco de dados" width="800" height="800">
 
-![Diagrama ERD do banco de dados](imagens/erd.svg)
+<br>
 
 ### Estrutura do banco (SQL)
 
@@ -123,7 +123,6 @@ CREATE UNIQUE INDEX "attendees_event_id_email_key" ON "attendees"("event_id", "e
 -- CreateIndex
 CREATE UNIQUE INDEX "check_ins_attendeeId_key" ON "check_ins"("attendeeId");
 ```
-
 
 <br>
 
