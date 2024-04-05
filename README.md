@@ -130,7 +130,7 @@ CREATE UNIQUE INDEX "check_ins_attendeeId_key" ON "check_ins"("attendeeId");
 
 1. Clone ou faça o download do repositório
 ```
-git clone https://github.com/Vitinho163/NLW-Unite---Pass-In.git
+git clone https://github.com/janainarque/projeto-gestao-participantes-server.git
 ```
 
 2. Instale as dependências
