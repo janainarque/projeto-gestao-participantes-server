@@ -170,16 +170,3 @@ Para rodar a aplicação em modo desenvolvimento
 ```
 npm run dev
 ```
-
-<br>
-
-## 🌐 Deploy
-
-Esta API foi hospedada diretamente no Render.
-
-O deployment pode ser acessado no seguinte endereço:
-```
-https://nlw-unite-pass-in.onrender.com/
-```
-
->Nota: Como está hospedado em um serviço gratuito, a aplicação 'hiberna' após 15 minutos de inatividade. Se você estiver tentando acessar o site e o BackEnd não responder, basta aguardar, pois ele estará 'inicializando' os serviços.
